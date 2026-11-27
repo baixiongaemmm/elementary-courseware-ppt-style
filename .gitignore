@@ -1,0 +1,7 @@
+# 忽略超大原始 PPTX 二进制文件（单文件超过 GitHub 100MB 限制）
+*.pptx
+*.ppt
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
